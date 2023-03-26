@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "awoI+bgCW1Zxq0Z5HOVTFrFaxytvq1NgKfypY3JqSaDQVROSJTanyOrGUPlHVufDnXo/DUgV+5VxO+mpH3cRYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omerc\\RiderProjects\\RedisCache\\CacheImpl\\CacheImpl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omerc\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.2\\pipelines.sockets.unofficial.2.2.2.nupkg.sha512",
+    "C:\\Users\\omerc\\.nuget\\packages\\stackexchange.redis\\2.6.96\\stackexchange.redis.2.6.96.nupkg.sha512",
+    "C:\\Users\\omerc\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

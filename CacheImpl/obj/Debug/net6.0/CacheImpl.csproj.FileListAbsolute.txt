@@ -1,0 +1,12 @@
+C:\Users\omerc\RiderProjects\RedisCache\CacheImpl\bin\Debug\net6.0\CacheImpl.deps.json
+C:\Users\omerc\RiderProjects\RedisCache\CacheImpl\bin\Debug\net6.0\CacheImpl.dll
+C:\Users\omerc\RiderProjects\RedisCache\CacheImpl\bin\Debug\net6.0\CacheImpl.pdb
+C:\Users\omerc\RiderProjects\RedisCache\CacheImpl\obj\Debug\net6.0\CacheImpl.csproj.AssemblyReference.cache
+C:\Users\omerc\RiderProjects\RedisCache\CacheImpl\obj\Debug\net6.0\CacheImpl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerc\RiderProjects\RedisCache\CacheImpl\obj\Debug\net6.0\CacheImpl.AssemblyInfoInputs.cache
+C:\Users\omerc\RiderProjects\RedisCache\CacheImpl\obj\Debug\net6.0\CacheImpl.AssemblyInfo.cs
+C:\Users\omerc\RiderProjects\RedisCache\CacheImpl\obj\Debug\net6.0\CacheImpl.csproj.CoreCompileInputs.cache
+C:\Users\omerc\RiderProjects\RedisCache\CacheImpl\obj\Debug\net6.0\CacheImpl.dll
+C:\Users\omerc\RiderProjects\RedisCache\CacheImpl\obj\Debug\net6.0\refint\CacheImpl.dll
+C:\Users\omerc\RiderProjects\RedisCache\CacheImpl\obj\Debug\net6.0\CacheImpl.pdb
+C:\Users\omerc\RiderProjects\RedisCache\CacheImpl\obj\Debug\net6.0\ref\CacheImpl.dll

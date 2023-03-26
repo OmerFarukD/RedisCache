@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisCache.WebAPI", "RedisCache.WebAPI\RedisCache.WebAPI.csproj", "{A22E7B88-925C-4779-B3EB-37BE9F50688A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheImpl", "CacheImpl\CacheImpl.csproj", "{03D341F3-F316-41CE-B77E-30D6235CF0CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A22E7B88-925C-4779-B3EB-37BE9F50688A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A22E7B88-925C-4779-B3EB-37BE9F50688A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A22E7B88-925C-4779-B3EB-37BE9F50688A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A22E7B88-925C-4779-B3EB-37BE9F50688A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03D341F3-F316-41CE-B77E-30D6235CF0CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03D341F3-F316-41CE-B77E-30D6235CF0CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03D341F3-F316-41CE-B77E-30D6235CF0CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03D341F3-F316-41CE-B77E-30D6235CF0CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
