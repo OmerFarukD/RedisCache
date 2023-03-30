@@ -1,5 +1,6 @@
 ﻿using System.Text.Json;
 using CacheImpl;
+using Microsoft.Extensions.Caching.Distributed;
 using RedisCache.WebAPI.Models;
 
 namespace RedisCache.WebAPI.Repositories;
